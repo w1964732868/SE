@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="335" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/softwore/maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ylJkuhfGUQhgm4b7M1R01EcshF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6745213" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="base" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oop.demo02" />
+      <recent name="com.wu.array6" />
+      <recent name="com.wu.struct" />
+      <recent name="com.wu.scanner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArraysTest05">
+    <configuration name="ArraysTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.array6.ArraysTest05" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.array6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.ExceptionTest" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Outter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oop.outterInnerTest.Outter" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oop.outterInnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.struct2.ReturnTest" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.struct2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverflowError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.StackOverflowError" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysTest05" />
+        <item itemvalue="Application.ReturnTest" />
+        <item itemvalue="Application.ExceptionTest" />
+        <item itemvalue="Application.StackOverflowError" />
+        <item itemvalue="Application.Outter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="" />
+      <created>1632820387300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632820387300</updated>
+      <workItem from="1632820389841" duration="19664000" />
+      <workItem from="1632902632687" duration="38385000" />
+      <workItem from="1633765676179" duration="3023000" />
+      <workItem from="1633918480519" duration="7400000" />
+      <workItem from="1634106949543" duration="11456000" />
+      <workItem from="1634206138909" duration="26623000" />
+      <workItem from="1634550529517" duration="603000" />
+      <workItem from="1634551863407" duration="2135000" />
+      <workItem from="1634554401974" duration="514000" />
+      <workItem from="1634554952031" duration="3923000" />
+    </task>
+    <task id="LOCAL-00001" summary="change of two numbers">
+      <created>1634553522149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634553522149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/javaSE" />
+    </ignored-roots>
+    <MESSAGE value="change of two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="change of two numbers" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1632820390813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1632820390813" />
+    <state x="1298" y="367" key="#com.intellij.ide.util.MemberChooser" timestamp="1634286456539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1298" y="367" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1634286456539" />
+    <state x="870" y="354" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1634206380243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="354" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1634206380243" />
+    <state x="478" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1632976803084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632976803084" />
+    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634553520298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634553520298" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1634553466976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634553466976" />
+    <state x="838" y="425" key="FileChooserDialogImpl" timestamp="1634267729513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="425" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1634267729513" />
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1634553123986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1634553123986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1634553123986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1634553123986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
+    <state width="1877" height="273" key="GridCell.Tab.1.bottom" timestamp="1634553123908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
+    <state width="1877" height="273" key="GridCell.Tab.1.center" timestamp="1634553123908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
+    <state width="1877" height="273" key="GridCell.Tab.1.left" timestamp="1634553123908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
+    <state width="1877" height="273" key="GridCell.Tab.1.right" timestamp="1634553123908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
+    <state x="588" y="128" key="SettingsEditor" timestamp="1634554739238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="128" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634554739238" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1634552828609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1634552828609" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1634609842597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634609842597" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1634267162871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1634267162871" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1634267162871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1634267162871" />
+    <state x="647" y="275" width="626" height="490" key="find.popup" timestamp="1634289267514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634289267514" />
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1634608346033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634608346033" />
+    <state x="566" y="195" key="new project wizard" timestamp="1632820473660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="566" y="195" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1632820473660" />
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1634209435544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634209435544" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest5.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest5.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest5.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest5.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/array6/ArraysTest03.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/array6/ArraysTest03.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/array6/ArraysTest06.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/oop/superThisOverrideTest/Student.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/exception/MyException.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/struct2/ReturnTest.java</url>
+          <line>38</line>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/wu/struct2/ReturnTest.java</url>
+          <line>34</line>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSE$ForPractice.ic" NAME="ForPractice Coverage Results" MODIFIED="1632987406999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wu.struct.*</FILTER>
+    </SUITE>
+  </component>
+</project>
