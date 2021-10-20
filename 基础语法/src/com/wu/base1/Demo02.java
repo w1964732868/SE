@@ -1,5 +1,6 @@
 package com.wu.base1;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 /**
@@ -7,6 +8,7 @@ import java.util.List;
  * @version 1.0.0
  * @date 2021/9/28
  * @description 变量要初始化  ==java强类型语言==  基本/引用数据类型 默认值
+ * 数据类型 变量名 = 变量值； 赋值
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
 public class Demo02 {
@@ -52,27 +54,35 @@ public class Demo02 {
         //数字  整数 byte/short/int/long
         //1字节/2字节/4字节/8字节  B
         //8位/16位/32位/64位      b
+        //2^8=128/2^16/2^32/2^64
+        //byte-2^7~2^7-1=-128~127
+
         //     小数 float/double
+        //     单精度/双精度
+        //     4字节/8字节
+
         //文字 char
+
         //是否 boolean
 
-        //整数
+        //整数类型 int常用
         int num1 = 10; //常用
         byte num2 = 20;
         short num3 = 30;
         long num4 = 40L;//L区分
 
 
-        //小数
-        float num5 = 50.1f;
+        //浮点类型 小数  double常用  金额BigDecimal
+        float num5 = 50.1f;//f/F结尾
         double num6 = 3.14159265358;
 
-        //文字 字符 字母、数字、字和符号
+        //字符型 文字 字符 字母、数字、字和符号
         char name = 'A';
+        //2个字节  16位  2^16
         //char name2 = '中国'; 应该是一个字
         //String字符串不是关键字是个(类)
 
-        //是否
+        //布尔型 是否
         boolean flag = true;
 
 

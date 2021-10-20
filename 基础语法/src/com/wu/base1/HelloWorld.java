@@ -4,12 +4,12 @@ package com.wu.base1;
  * @author huijie.wu
  * @version 1.0.0
  * @date 2021/9/28
- * @description 注释
+ * @description 注释 comment：对所写的程序，进行解释说明，便于理解
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
 public class HelloWorld {
     public static void main(String[] args) {
-        //单行注释
+        //1、单行注释 内容不参与编译
         System.out.println("Hell World");
         System.out.println("" +
                 "                               _(\\_/) \n" +
@@ -49,7 +49,7 @@ public class HelloWorld {
                 " * └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘\n" +
                 " */");
         /*
-        多行注释
+        2、多行注释 内容不参与编译  不能嵌套使用
         123
         123
         123
@@ -57,9 +57,9 @@ public class HelloWorld {
         123
         */
 
-        //JavaDoc：文本注释
+        //JavaDoc：文本注释 能被解析
         /**
-         * 文本注释
+         * 3、文本注释
          * @deprecated HelloWorld
          * @Author wuhuijie
          */

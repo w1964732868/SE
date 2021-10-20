@@ -49,8 +49,13 @@ public class Demo03 {
         System.out.println(c3);//结果:a '\u0000'默认值 是空白符
         System.out.println("====================");
         //4、转义字符
-        //\t(Tab、制表符) //----------
-        //\n换行         //----------
+        // \t(Tab、制表符) //----------
+        // \n换行         //----------
+        // \b  退格符
+        // \r回车符
+        // \" 双引号
+        // \' 单引号
+        // \\反斜线
         System.out.println("Hello\tWorld");//结果:Hello	World
         System.out.println("Hello\nWorld");
         //结果:

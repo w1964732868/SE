@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="change of two numbers">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/text.md" afterDir="false" />
+    <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +64,39 @@
       <recent name="com.wu.scanner" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysTest05">
+  <component name="RunManager" selected="Application.Demo02">
     <configuration name="ArraysTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wu.array6.ArraysTest05" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wu.array6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.base1.Demo01" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.base1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.base1.Demo02" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.base1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Outter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oop.outterInnerTest.Outter" />
-      <module name="基础语法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oop.outterInnerTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReturnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wu.struct2.ReturnTest" />
       <module name="基础语法" />
@@ -113,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackOverflowError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.StackOverflowError" />
-      <module name="基础语法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01" />
         <item itemvalue="Application.ArraysTest05" />
         <item itemvalue="Application.ReturnTest" />
         <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.StackOverflowError" />
-        <item itemvalue="Application.Outter" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +160,7 @@
       <workItem from="1634551863407" duration="2135000" />
       <workItem from="1634554401974" duration="514000" />
       <workItem from="1634554952031" duration="3923000" />
+      <workItem from="1634627210619" duration="9893000" />
     </task>
     <task id="LOCAL-00001" summary="change of two numbers">
       <created>1634553522149</created>
@@ -164,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634553522149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add git common">
+      <created>1634627079779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634627079779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +187,8 @@
       <path value="$PROJECT_DIR$/javaSE" />
     </ignored-roots>
     <MESSAGE value="change of two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="change of two numbers" />
+    <MESSAGE value="add git common" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git common" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Project_Structure" timestamp="1632820390813">
@@ -194,10 +207,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="478" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632976803084" />
-    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634553520298">
+    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634627078715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634553520298" />
+    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634627078715" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1634553466976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,38 +219,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="425" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1634267729513" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1634553123986">
+    <state width="1536" height="245" key="GridCell.Tab.0.bottom" timestamp="1634728723933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1634553123986">
+    <state width="1536" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723933" />
+    <state width="1536" height="245" key="GridCell.Tab.0.center" timestamp="1634728723933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1634553123986">
+    <state width="1536" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723933" />
+    <state width="1536" height="245" key="GridCell.Tab.0.left" timestamp="1634728723933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1634553123986">
+    <state width="1536" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723933" />
+    <state width="1536" height="245" key="GridCell.Tab.0.right" timestamp="1634728723933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123986" />
-    <state width="1877" height="273" key="GridCell.Tab.1.bottom" timestamp="1634553123908">
+    <state width="1536" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723933" />
+    <state width="1536" height="245" key="GridCell.Tab.1.bottom" timestamp="1634728723791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
-    <state width="1877" height="273" key="GridCell.Tab.1.center" timestamp="1634553123908">
+    <state width="1536" height="245" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723791" />
+    <state width="1536" height="245" key="GridCell.Tab.1.center" timestamp="1634728723790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
-    <state width="1877" height="273" key="GridCell.Tab.1.left" timestamp="1634553123908">
+    <state width="1536" height="245" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723790" />
+    <state width="1536" height="245" key="GridCell.Tab.1.left" timestamp="1634728723790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
-    <state width="1877" height="273" key="GridCell.Tab.1.right" timestamp="1634553123908">
+    <state width="1536" height="245" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723790" />
+    <state width="1536" height="245" key="GridCell.Tab.1.right" timestamp="1634728723791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634553123908" />
+    <state width="1536" height="245" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634728723791" />
     <state x="588" y="128" key="SettingsEditor" timestamp="1634554739238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,10 +259,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1634552828609" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1634609842597">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1634627092697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634609842597" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634627092697" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1634267162871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -270,10 +283,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="566" y="195" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1632820473660" />
-    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1634209435544">
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1634728661591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634209435544" />
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634728661591" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
