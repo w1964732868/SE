@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/array6/ArraysTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/array6/ArraysTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,7 @@
       <workItem from="1634551863407" duration="2135000" />
       <workItem from="1634554401974" duration="514000" />
       <workItem from="1634554952031" duration="3923000" />
-      <workItem from="1634627210619" duration="9893000" />
+      <workItem from="1634627210619" duration="10142000" />
     </task>
     <task id="LOCAL-00001" summary="change of two numbers">
       <created>1634553522149</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634627079779</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update base 2021/10/20">
+      <created>1634729193815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634729193815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +194,9 @@
     </ignored-roots>
     <MESSAGE value="change of two numbers" />
     <MESSAGE value="add git common" />
-    <option name="LAST_COMMIT_MESSAGE" value="add git common" />
+    <MESSAGE value="update 2021/10/20" />
+    <MESSAGE value="update base 2021/10/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="update base 2021/10/20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Project_Structure" timestamp="1632820390813">
@@ -207,14 +215,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="478" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632976803084" />
-    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634627078715">
+    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634729192060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634627078715" />
-    <state x="184" y="86" key="DiffContextDialog" timestamp="1634553466976">
+    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634729192060" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1634729163221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634553466976" />
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634729163221" />
     <state x="838" y="425" key="FileChooserDialogImpl" timestamp="1634267729513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -275,10 +283,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634289267514" />
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1634627027834">
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1634729269500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634627027834" />
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634729269500" />
     <state x="566" y="195" key="new project wizard" timestamp="1632820473660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
