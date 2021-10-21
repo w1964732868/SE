@@ -10,6 +10,7 @@ package com.wu.base1;
 public class Demo03 {
     public static void main(String[] args) {
         //1、整数拓展 进制：  二进制0b 十进制 八进制0 十六进制0x
+        //                   0,1      0-9   0-7    0-9及A（10）_F(15)
         int i1 = 1010;
         int i2 = 10;//----------
         int i3 = 010;
@@ -75,6 +76,7 @@ public class Demo03 {
         //6、布尔值扩展
         boolean flag = true; //----------
         if (flag) {//判断为true 这样写  代码要精简 易读
+            System.out.println("Hello\\nWorld!,\"你好\"呀！");//Hello\nWorld!,"你好"呀！
         }
     }
 }

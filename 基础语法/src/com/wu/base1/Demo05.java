@@ -21,9 +21,20 @@ public class Demo05 {
         long total1 = year * money;//先计算 后转换为long 转换前已经存在问题了
         System.out.println(total1);//结果:-1474836480 内存溢出了
 
-        long total3 = ((long)year) * money;
+        long total3 = ((long) year) * money;
         System.out.println(total3);//结果:20000000000 20亿
 
         //L(用大写) l
+
+        long a = 123; //int->long
+        System.out.println(a);
+        long b = 1111111111111111L;//一定要加L/l
+        System.out.println(b);
+
+        //float f = 12.3;错误12.3默认double  double-float要强转
+        float f1 = (float) 12.3;//强转
+        float f = 12.3f;//要加f
+
+
     }
 }

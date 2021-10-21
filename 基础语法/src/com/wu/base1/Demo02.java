@@ -9,6 +9,20 @@ import java.util.List;
  * @date 2021/9/28
  * @description 变量要初始化  ==java强类型语言==  基本/引用数据类型 默认值
  * 数据类型 变量名 = 变量值； 赋值
+ * <p>
+ * 基本数据类型变量间转换
+ * 1）short s = 5;
+ * s = s-2; //判断：no  应为int
+ * 2） byte b = 3;
+ * b = b + 4; //判断：no  应为int
+ * b = (byte)(b+4); //判断：yes 强转了
+ * 3）char c = 'a';
+ * int i = 5;
+ * float d = .314F;
+ * double result = c+i+d; //判断：yes
+ * 4） byte b = 5;
+ * short s = 3;
+ * short t = s + b; //判断：no 应为int
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
 public class Demo02 {
@@ -37,10 +51,46 @@ public class Demo02 {
     public static void main(String[] args) {
         //在方法里面的变量 是局部变量
         //a要初始化 局部变量一定要初始化 成员变量可以不要初始化
+//============8种基本数据类型 与String直接的转换  连接
         String a = "hello";
         int num = 10;
-        System.out.println(a);
-        System.out.println(num);
+        System.out.println(a);//hello
+        System.out.println(num);//10
+        String s = a + num;
+        System.out.println(s);//hello10
+        String s1 = num + a;
+        System.out.println(s1);//10hello
+
+        char c = 'a';//97 A65
+        int num11 = 10;
+        String str = "hello";
+        System.out.println(c + num11 + str);//107hello
+        System.out.println(c + str + num11);//ahello10
+        System.out.println(c + (num11 + str));//a10hello
+        System.out.println((c + num11) + str);//107hello
+        System.out.println(str + num11 + c);//hello10a
+
+        System.out.println("*    *");//*    *
+        System.out.println('*' + '\t' + '*');//93
+        System.out.println('*' + "\t" + '*');//*    *
+        System.out.println('*' + '\t' + "*");//51*
+        System.out.println('*' + ('\t' + "*"));//*  *
+
+        //String str3 = 4; //判断对错：no
+        //int->String
+        String str4 = 4 + ""; //判断对错：yes int->String
+        System.out.println(str4); //4String
+        //String->int
+        int i = Integer.parseInt(str4);
+        System.out.println(i);//4int
+
+        String str2 = 3.5f + ""; //判断str2对错：yes
+        System.out.println(str2); //输出：”3.5” String
+        System.out.println(3 + 4 + "Hello !"); //输出：7Hello!
+        System.out.println("Hello !" + 3 + 4); //输出：Hello!34
+        System.out.println('a' + 1 + "Hello !"); //输出：98Hello!
+        System.out.println("Hello" + 'a' + 1); //输出：Helloa1
+
 
         //1个字节byte(B)   8位bit(b)
         //1B = 8byte
