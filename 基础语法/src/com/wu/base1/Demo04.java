@@ -9,14 +9,32 @@ package com.wu.base1;
  **/
 public class Demo04 {
     public static void main(String[] args) {
+        //二进制-》十进制 *2
+        //1101
+        //1*2^3+1*2^2+0*2^1+1*2^0
+        //8+4+0+1=13
+
+        //十进制 二进制：除2取余的逆 /2
+        //13/2   6...1
+        //6/2    3...0
+        //3/2    1...1
+        //1/2    0...1
+        //0/2    0...0  1101二进制binary = 13十进制decimal
+
+        //十进制-》二进制-》八进制、十六进制
+        //二进制-》八进制
+        //(0 101) (05)
+
+        //二进制-》十六进制
+        //(0011) (0X3)
 
 //1B     2B        4B     8B 字节
         //byte/short/char->int->long->float->double
-        int i = 128;
-        byte b = (byte) i;//内存溢出  高->低  int->byte(最大127) -128~127
+        int i = 128;//0000 0000 0000 0000 0000 0000 1000 0000
+        byte b = (byte) i;//内存溢出  高->低  int->byte(最大127) -128~127  1000 0000(-128)
         //强制转换 (类型)变量名
         System.out.println(i);//结果:128
-        System.out.println(b);//结果:-128
+        System.out.println(b);//结果:-128 1000 0000(-128)
 
         //丢失精度
         System.out.println((int) 12.4);//12 截取操作

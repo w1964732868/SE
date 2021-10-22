@@ -76,13 +76,22 @@ public class Demo02 {
         System.out.println('*' + '\t' + "*");//51*
         System.out.println('*' + ('\t' + "*"));//*  *
 
+        System.out.println("********");
         //String str3 = 4; //判断对错：no
         //int->String
         String str4 = 4 + ""; //判断对错：yes int->String
-        System.out.println(str4); //4String
+        System.out.println(str4); //4 String
         //String->int
         int i = Integer.parseInt(str4);
-        System.out.println(i);//4int
+        System.out.println(i);//4 int
+
+        // String->Integer
+        Integer integer = Integer.valueOf(str4);
+        System.out.println(integer);//4 Integer
+        //Integer->String
+        String s2 = String.valueOf(integer);
+        System.out.println(s2);//4 String
+        System.out.println("********");
 
         String str2 = 3.5f + ""; //判断str2对错：yes
         System.out.println(str2); //输出：”3.5” String
