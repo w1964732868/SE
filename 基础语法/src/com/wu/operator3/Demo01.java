@@ -10,7 +10,7 @@ package com.wu.operator3;
 public class Demo01 {
     public static void main(String[] args) {
         //二元运算符 + - * / % > < == !=
-        int a = 10;//赋值运算符 =
+        int a = 10;//赋值运算符 = += -= *= /= %=
         int b = 20;
         int j = 21;
         //算术运算符 + - * / %
@@ -19,9 +19,9 @@ public class Demo01 {
         System.out.println(a * b);//结果200
         System.out.println(a / (double) b);//强转一下 结果0.5
         System.out.println(a / b);//四舍五入了 结果0
-        System.out.println(j % a);//21/10=2...1 结果1 模运算
+        System.out.println(j % a);//21/10=2...1 结果1 模运算 被除数/除数=商。。。余数  被模数 % 模数 (正负跟被模数有关)
 
-        //关系运算符> < == !=
+        //关系运算符> >= < <= == != instanceOf
         System.out.println(a > b);//结果false
         System.out.println(a < b);//结果true
         System.out.println(a == b);//结果false
@@ -70,6 +70,16 @@ public class Demo01 {
         System.out.println(n2);//结果3
         System.out.println(n2);//结果3
 
+        short sh = 10;
+        //sh = sh + 1;//编译失败
+        //sh = (short)(sh + 1);//正确的 编译通过
+        sh++;//自增1 不会该改变本身变量的数据类型
+        System.out.println(sh);//11
+
+        byte b1 = 127;
+        b1++;
+        System.out.println(b1);//-128
+
         //逻辑运算符 与&&  或||  非!
         boolean t = true;
         boolean s = false;
@@ -87,5 +97,21 @@ public class Demo01 {
 
         double pow1 = Math.pow(3, 2);//3^2=3*3=9
         System.out.println(pow1);//结果9.0
+
+        System.out.println("=============类型强转==============");
+        int num1 = 12;
+        int num2 = 5;
+        int result1 = num1 / num2;
+        System.out.println(result1);//2
+        double result2 = num1 / num2;
+        System.out.println(result2);//2.0
+        int result3 = num1 / num2 * num2;
+        System.out.println(result3);//10
+        double result4 = num1 / num2 + 0.0;//2.0
+        System.out.println(result4);
+        double result5 = num1 / (num2 + 0.0);//2.4
+        System.out.println(result5);
+        double result6 = (double) num1 / num2;
+        System.out.println(result6);//2.4
     }
 }

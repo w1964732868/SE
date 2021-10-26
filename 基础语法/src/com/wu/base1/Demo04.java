@@ -36,6 +36,10 @@ public class Demo04 {
         System.out.println(i);//结果:128
         System.out.println(b);//结果:-128 1000 0000(-128)
 
+        byte bb1 = 127;// 0000 0000 0111 1111
+        bb1++;// 0000 0000 1000 0000
+        System.out.println(bb1);//-128
+
         //丢失精度
         System.out.println((int) 12.4);//12 截取操作
         System.out.println((int) 12.9);//12
