@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/SignTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/base1/Demo04.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/operator3/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/operator3/Demo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/base1/Demo04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/SignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/SignTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +164,8 @@
       <workItem from="1634867961930" duration="56000" />
       <workItem from="1634868217269" duration="52000" />
       <workItem from="1634895004355" duration="1616000" />
-      <workItem from="1635236976093" duration="6873000" />
+      <workItem from="1635236976093" duration="8234000" />
+      <workItem from="1635330067058" duration="2866000" />
     </task>
     <task id="LOCAL-00001" summary="change of two numbers">
       <created>1634553522149</created>
@@ -212,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634895096264</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update 8 base data type class 2021/10/26">
+      <created>1635247864054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635247864054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +245,8 @@
     <MESSAGE value="update base 2021/10/20" />
     <MESSAGE value="update 8 base data type  2021/10/21" />
     <MESSAGE value="update 8 base data type class 2021/10/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 8 base data type class 2021/10/21" />
+    <MESSAGE value="update 8 base data type class 2021/10/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 8 base data type class 2021/10/26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="741" y="234" width="816" height="724" key="#Intentions" timestamp="1634784625558">
@@ -264,10 +269,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="478" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632976803084" />
-    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1634895094702">
+    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1635247862214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1634895094702" />
+    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1635247862214" />
     <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1634895085035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -276,38 +281,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="425" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1634267729513" />
-    <state width="1536" height="264" key="GridCell.Tab.0.bottom" timestamp="1635244961946">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1635331904025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961946" />
-    <state width="1536" height="264" key="GridCell.Tab.0.center" timestamp="1635244961946">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635331904025" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1635331904025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961946" />
-    <state width="1536" height="264" key="GridCell.Tab.0.left" timestamp="1635244961946">
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635331904025" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1635331904025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961946" />
-    <state width="1536" height="264" key="GridCell.Tab.0.right" timestamp="1635244961946">
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635331904025" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1635331904025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961946" />
-    <state width="1536" height="264" key="GridCell.Tab.1.bottom" timestamp="1635244961858">
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635331904025" />
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom" timestamp="1635331903938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961858" />
-    <state width="1536" height="264" key="GridCell.Tab.1.center" timestamp="1635244961858">
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635331903938" />
+    <state width="1877" height="264" key="GridCell.Tab.1.center" timestamp="1635331903938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961858" />
-    <state width="1536" height="264" key="GridCell.Tab.1.left" timestamp="1635244961858">
+    <state width="1877" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635331903938" />
+    <state width="1877" height="264" key="GridCell.Tab.1.left" timestamp="1635331903938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961858" />
-    <state width="1536" height="264" key="GridCell.Tab.1.right" timestamp="1635244961858">
+    <state width="1877" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635331903938" />
+    <state width="1877" height="264" key="GridCell.Tab.1.right" timestamp="1635331903938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1536" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635244961858" />
+    <state width="1877" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635331903938" />
     <state x="588" y="128" key="SettingsEditor" timestamp="1634554739238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -316,10 +321,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1634552828609" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1634895271404">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1635331054348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1634895271404" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1635331054348" />
     <state x="434" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1635237669614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -336,10 +341,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634289267514" />
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1634895239447">
+    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog" timestamp="1635333017576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634895239447" />
+    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635333017576" />
     <state x="566" y="195" key="new project wizard" timestamp="1632820473660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

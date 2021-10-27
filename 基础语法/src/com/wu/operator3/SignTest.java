@@ -46,5 +46,15 @@ public class SignTest {
         n1 *= m1++;//n1 = n1 * m1++ = 3*2
         System.out.println("m1=" + m1);//3
         System.out.println("n1=" + n1);//6
+
+        int a1 = 5;
+        int b1 = 3;
+        //a1+b1=5
+        //"" + a1 + b1 = 5+b1 = 53
+        //a + b1 + "" = 8+"" = 8
+        System.out.println("a1 + b1 = " + a1 + b1);//a1 + b1 = 53
+        System.out.println("a1 + b1 = " + (a1 + b1));//a1 + b1 = 8
+        System.out.println(a1 + b1 + "");//8
+        System.out.println("" + a1 + b1);//53
     }
 }

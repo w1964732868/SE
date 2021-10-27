@@ -5,10 +5,15 @@ package com.wu.operator3;
  * @version 1.0.0
  * @date 2021/9/29
  * @description 运算符 算术/关系/赋值/逻辑
+ * 算术 +正 -负 +加 -减 * / % (前)++ (后)++ (前)-- (后)-- +连接
+ * 赋值 =  +=  -=  *=  /=  %=
+ * 关系 == != >  <  >=  <=  instanceof
+ * 逻辑 & && | ||  !  ^
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
 public class Demo01 {
     public static void main(String[] args) {
+        System.out.println("=======二元运算符======");
         //二元运算符 + - * / % > < == !=
         int a = 10;//赋值运算符 = += -= *= /= %=
         int b = 20;
@@ -42,12 +47,48 @@ public class Demo01 {
         //byte+short结果为int
         //cast转换
 
+        System.out.println("=======三元运算符======");
         //三元运算符 x ? y : z
         int score = 80;
         String s1 = score < 60 ? "不及格" : "及格";
         System.out.println(s1);//结果及格
         String s11 = 20 < 60 ? "不及格1" : "及格1";
         System.out.println(s11);//结果不及格1
+
+        int intA = 10;
+        int intB = 21;
+        int intC = -11;
+        int intI = intA > intB ? intA : intB;
+        int max = intI > intC ? intI : intC;
+        System.out.println("max = " + max);//21
+
+        int intD = 0;
+        if (intA > intB) {
+            if (intC > intA) {
+                intD = intC;
+            } else {
+                intD = intA;
+            }
+        } else {
+
+            if (intC > intB) {
+                intD = intC;
+            } else {
+                intD = intB;
+            }
+        }
+        System.out.println("max2 = " + intD);
+
+        int intF;
+        if (intA >= intB && intA >= intC) {
+            intF = intA;
+        } else if (intB >= intA && intB >= intC) {
+            intF = intB;
+        } else {
+            intF = intC;
+        }
+        System.out.println("max3 = " + intF);
+
         System.out.println("=======一元运算符======");
         //一元运算符  ++  --
         int m = 3;
