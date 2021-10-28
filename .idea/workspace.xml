@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="update operater 2021/10/27">
+    <list default="true" id="5d12ac33-e406-485a-a424-686bb1bbb786" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/operator3/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/operator3/Demo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/scanner4/ScannerTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/scanner4/ScannerTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/operator3/Demo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/scanner4/ScannerTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/BreakTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/ForPractice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/ForPractice4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/StructTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/wu/struct2/StructTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/BreakTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/BreakTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/ForPractice4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/ForPractice4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/wu/struct2/Practice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +165,7 @@
       <workItem from="1634868217269" duration="52000" />
       <workItem from="1634895004355" duration="1616000" />
       <workItem from="1635236976093" duration="8234000" />
-      <workItem from="1635330067058" duration="12291000" />
+      <workItem from="1635330067058" duration="12530000" />
     </task>
     <task id="LOCAL-00001" summary="change of two numbers">
       <created>1634553522149</created>
@@ -229,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635333064513</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update struct 2021/10/28">
+      <created>1635418498653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635418498653</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +261,8 @@
     <MESSAGE value="update 8 base data type class 2021/10/21" />
     <MESSAGE value="update 8 base data type class 2021/10/26" />
     <MESSAGE value="update operater 2021/10/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="update operater 2021/10/27" />
+    <MESSAGE value="update struct 2021/10/28" />
+    <option name="LAST_COMMIT_MESSAGE" value="update struct 2021/10/28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="741" y="234" width="816" height="772" key="#Intentions" timestamp="1635391403473">
@@ -287,14 +289,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="440" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1635408526766" />
-    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1635391359207">
+    <state x="533" y="113" key="CommitChangelistDialog2" timestamp="1635418496952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1635391359207" />
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1634895085035">
+    <state x="533" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1635418496952" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1635418472369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634895085035" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635418472369" />
     <state x="838" y="425" key="FileChooserDialogImpl" timestamp="1634267729513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -359,10 +361,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634289267514" />
-    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog" timestamp="1635333017576">
+    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog" timestamp="1635418684141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635333017576" />
+    <state x="666" y="212" width="870" height="506" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635418684141" />
     <state x="566" y="195" key="new project wizard" timestamp="1632820473660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
