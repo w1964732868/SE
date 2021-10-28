@@ -7,6 +7,32 @@ package com.wu.struct2;
  * @description
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
+/*
+① 初始化条件
+② 循环条件  --->是boolean类型
+③ 循环体
+④ 迭代条件
+
+for(①;②;④){
+	③
+}执行过程：① - ② - ③ - ④ - ② - ③ - ④ - ... - ②
+
+
+①
+while(②){
+	③;
+	④;
+}执行过程：① - ② - ③ - ④ - ② - ③ - ④ - ... - ②
+
+
+①
+do{
+	③;
+	④;
+
+}while(②);执行过程：① - ③ - ④ - ② - ③ - ④ - ... - ②
+
+ */
 public class BreakTest {
     public static void main(String[] args) {
         int num = 0;

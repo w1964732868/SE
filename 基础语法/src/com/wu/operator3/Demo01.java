@@ -8,7 +8,7 @@ package com.wu.operator3;
  * 算术 +正 -负 +加 -减 * / % (前)++ (后)++ (前)-- (后)-- +连接
  * 赋值 =  +=  -=  *=  /=  %=
  * 关系 == != >  <  >=  <=  instanceof
- * 逻辑 & && | ||  !  ^
+ * 逻辑 & && | ||  !  ^ ~
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
 public class Demo01 {

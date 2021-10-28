@@ -7,13 +7,14 @@ package com.wu.operator3;
  * @date 2021/9/29
  * @description 位运算(左移变大 * 2 右移变小 / 2) 拓展运算符
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
- *
+ * <p>
  * 2*8 (2<<3) (8<<1)
  **/
 public class Demo02 {
 
     /**
      * 主入口
+     *
      * @param args
      */
     public static void main(String[] args) {
@@ -71,5 +72,28 @@ public class Demo02 {
         int d = 20;
         c -= d;
         System.out.println(c);//结果-10
+
+
+        char c4 = '5';
+        int i1 = (int) c4;
+        System.out.println(i1);//53
+        /*
+         ascii码
+        0011 0101   Bin(二进制)
+        065        Oct(八进制)
+        53         Dec(十进制)
+        0x35       Hex(十六进制)
+        5
+       字符5
+
+         */
+
+
+        int m1 = 20;
+        int m2 = 20;
+        int c2 = (m1 != m2) ? m1 : m2;
+        //int c2 = m1; 多想想
+        System.out.println(c2);
+
     }
 }

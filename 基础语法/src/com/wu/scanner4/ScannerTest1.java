@@ -9,6 +9,24 @@ import java.util.Scanner;
  * @description
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
+  /*
+    String类型
+    scanner.next()    遇到空格停
+    scanner.nextLine()遇到回车停
+
+    int类型
+    scanner.nextInt()
+
+    double类型
+    scanner.nextDouble()
+
+    用完要关闭
+    scanner.close()
+
+   String str = "ABC";
+   int a =str.charAt(0);
+   System.out.println(a);//65
+   */
 public class ScannerTest1 {
     public static void main(String[] args) {
         //开始

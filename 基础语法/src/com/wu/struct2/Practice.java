@@ -19,7 +19,8 @@ public class Practice {
         //i行
         //j每行个数
         for (int i = 1; i <= 5; i++) { //行
-            for (int j = 5; j >= i; j--) {//第一行5个 第二行4
+            //for (int j = 5; j >= i; j--) {//第一行5个 第二行4
+            for (int j = 1; j <= 5 - i; j++) {//效果跟上面一样 (i + j = 5) (j = 5 - i)
                 System.out.print(" ");
                 /**
                  * *****
@@ -50,6 +51,16 @@ public class Practice {
                  */
             }
             System.out.println();
+        }
+
+        System.out.println();
+        for (int i = 0; i < 4; i++) { //控制 行数 外层循环
+            //start  想让这个出现几次 ：4次
+            for (int j = 0; j < 6; j++) { //控制 列数 内层循环
+                System.out.print('*');
+            }
+            System.out.println();
+            //end
         }
     }
 }

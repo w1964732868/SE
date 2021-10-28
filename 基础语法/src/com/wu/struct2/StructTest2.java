@@ -11,7 +11,7 @@ public class StructTest2 {
     public static void main(String[] args) {
         //反编译 java文件->class(字节码文件)->反编译(idea)
         /*/case穿透 要加break
-        /expression支持 byte/short/int/char/String
+        /expression支持 byte/short/int/char/String/枚举
         /vale必须为字符串常量或字面量
         /switch (expression){
         /    case vale:
