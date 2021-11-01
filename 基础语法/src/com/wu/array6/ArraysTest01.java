@@ -7,6 +7,22 @@ package com.wu.array6;
  * @description 数组的声明 创建 java内存分析(堆、栈、方法区)   增强型for循环
  * @copyright COPYRIGHT © 2014 - 2021 VOYAGE ONE GROUP INC. ALL RIGHTS RESERVED.
  **/
+
+/**
+ * 数组：
+ * 1、数组声明及初始化
+ * 2、赋值 索引
+ * 3、length
+ * 4、for循环
+ * 5、默认值
+ * 6、内存解析
+ *
+ * 赋值 不开辟新的空间 windows里相当于创建 快捷方式到桌面  文件两边同步
+ * 复制 开辟新的空间 windows里相当于剪切到桌面 文件两边不同步
+ * 反转 3中方式
+ * 查找(线性查找 二分法查找)
+ * 排序
+ */
 public class ArraysTest01 {
     public static void main(String[] args) {//方法区：可以被所有线程共享 包含所有class和static变量
         int[] nums;//数组的声明 在栈里
@@ -90,12 +106,32 @@ public class ArraysTest01 {
      * @return 数组
      */
     public static int[] reverse(int[] nums) {
-        int[] result = new int[nums.length];
-        for (int i = 0, j = nums.length - 1; i < nums.length; i++, j--) {
-            result[j] = nums[i];
-        }
+        //==========反转方法1开始=============效率大点
+        //int[] result = new int[nums.length];
+        //for (int i = 0, j = nums.length - 1; i < nums.length; i++, j--) {
+        //    result[j] = nums[i];
+        //}
+        //return result;
+        //==========反转方法1结束=============
 
-        return result;
+        //==========反转方法2开始=============
+        //for (int i = 0; i < nums.length / 2; i++) {
+        //    int temp = nums[i];
+        //    nums[i] = nums[nums.length - 1 - i];
+        //    nums[nums.length - 1 - i] = temp;
+        //}
+        //
+        //return nums;
+        //==========反转方法2结束=============
+
+        //==========反转方法3开始=============
+        for (int i = 0, j = nums.length - 1; i < j; i++, j--) {
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+        }
+        return nums;
+        //==========反转方法3结束=============
     }
 
 }
